@@ -1,12 +1,41 @@
 ---
 title: ""
 draft: false
-Cover:
-    image: img/macky.jpg
-    alt: 'This is a post image' 
-    caption: '2023s barndisco med Macky och Olivia. Foto: Lii Alex'
 ---
 
-### SAVE THE DATE -- 24-25 MAJ!
+## SAVE THE DATE -- 24-25 MAJ!
 
-Agendan för Markaryds Vårmarknad 2024 kommer du att kunna hitta här!
+Under hela dagen den 25 maj har du möjlighet att delta i Vårmarknadens tipsrunda! Vinsten innefattar ett markarydspresentkort till ett värde av 2500kr. Lämna in ditt bidrag i brevlådan i Vårmarknadens tält. Tävlingen avslutas 18.00 den 25 maj och vinnaren presenteras både här samt på Markaryds Vårmarknads och C/o markaryds instagram under följande vecka. Tipsrundans frågor är utplacerade i följande butiker:
+
+
+Ayodas
+
+
+
+Modehus 15
+
+
+
+Finns familyhouse fortfarande? isåfall där med
+
+
+
+Team Sportia 
+
+
+
+Honey´s Grunkor
+
+
+
+
+Lady Annas
+
+
+
+Kungsgatan 30
+
+
+## AGENDA
+
+![targets](/img/agenda.jpg)
