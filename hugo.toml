@@ -1,4 +1,40 @@
-baseURL = 'https://example.org/'
+baseURL = ''
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme ="PaperMod"
+title = ' Markaryds Vårmarknad'
+theme =  "PaperMod"
+enableInlineShortcodes = true
+
+[params]
+ShowShareButtons = true
+ShareButtons = [ "Linkedin", "Instagram", "facebook" ]
+themeVariant = "dark"
+label.icon = "logggg.svg"
+
+
+
+[[menu.main]]
+  identifier = 'Sponsorer'
+  name = 'Sponsorer'
+  url = '/Sponsorer/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'Agenda'
+  name = 'Agenda'
+  url = '/Agenda/'
+  weight = 30
+
+
+  [[menu.main]]
+  identifier = 'Kontakta oss'
+  name = 'Kontakta oss'
+  url = '/Kontakta-oss/'
+  weight = 40
+
+    [[menu.main]]
+  identifier = 'Bildgalleri'
+  name = 'Bildgalleri'
+  url = '/Bildgalleri/'
+  weight = 50
+
+
