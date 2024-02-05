@@ -17,7 +17,7 @@ Markarydsvarmarknad@gmail.com
 
 ![targets](/img/johannas.jpg)
 ### Johanna Nyström
-#### Sponsorpaket, webb
+#### Sponsorpaket & webb
 nystromjohannas@gmail.com
 
 
@@ -47,6 +47,13 @@ nathalie@mejl.se
 ### Alexander Sjöström
 #### Marknadsstånd
 Alexander@mejl.se
+
+
+
+
+### Alexander Sjöström
+#### El 
+Alle@mejl.se
 
 
 
