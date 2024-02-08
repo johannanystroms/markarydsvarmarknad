@@ -91,3 +91,9 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
+
+
+img[src$="fakelogo.svg"] {
+    width: 180px;
+    height: 100px; 
+}

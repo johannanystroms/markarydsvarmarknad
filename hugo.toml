@@ -1,6 +1,6 @@
 baseURL = ''
 languageCode = 'en-us'
-title = ' Markaryds Vårmarknad'
+title = ' '
 theme =  "PaperMod"
 enableInlineShortcodes = true
 
@@ -8,7 +8,7 @@ enableInlineShortcodes = true
 ShowShareButtons = true
 ShareButtons = [ "Linkedin", "Instagram", "facebook" ]
 themeVariant = "dark"
-label.icon = "logggg.svg"
+label.icon = "fakelogo.svg"
 
 
 

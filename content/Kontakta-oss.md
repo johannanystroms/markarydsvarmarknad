@@ -2,7 +2,7 @@
 title: "Kontakta oss"
 draft: false
 Cover:
-    image: img/macky.jpg
+    image: galleri/9.jpg
     alt: 'This is a post image' 
     caption: '2023s barndisco med Macky och Olivia. Foto: Lii Alex'
 ---
