@@ -97,3 +97,14 @@ img[src$="fakelogo.svg"] {
     width: 180px;
     height: 100px; 
 }
+
+
+.nav a {
+    font-family: "Gagalin"; /
+    color: #FF66C4; 
+}
+
+
+#menu .active {
+    color: #00F4FD; 
+}

@@ -8,4 +8,4 @@ Cover:
 ---
 
 
-År 2023 var första året sen bytet av styrgrupp. Med tusentals besökare blev eventet en succé!
+År 2023 var första upplagan för Markaryds Vårmarknad sen bytet av styrgrupp. Med tusentals besökare blev eventet en succé!
