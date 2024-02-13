@@ -8,7 +8,7 @@ enableInlineShortcodes = true
 ShowShareButtons = true
 ShareButtons = [ "Linkedin", "Instagram", "facebook" ]
 themeVariant = "dark"
-label.icon = "fakelogo.svg"
+label.icon = "marre.svg"
 
 
 
