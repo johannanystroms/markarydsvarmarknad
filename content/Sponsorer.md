@@ -4,7 +4,7 @@ draft: false
 ---
 
 
-#### Vi kan med glädje meddela att Markaryds Vårmarknad 2024 är sponsrad av:
+Med glädje meddelar vi att Markaryds Vårmarknad 2024 är sponsrad av:
 
 ### Guldsponsorer
 
