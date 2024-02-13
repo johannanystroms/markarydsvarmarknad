@@ -100,11 +100,11 @@ img[src$="fakelogo.svg"] {
 
 
 .nav a {
-    font-family: "Gagalin"; /
-    color: #FF66C4; 
+    font-family: "Gagalin"; 
+    color: #FFFFFF; 
 }
 
 
 #menu .active {
-    color: #00F4FD; 
+    color: #FF66C4; 
 }
