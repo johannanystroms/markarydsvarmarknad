@@ -50,6 +50,8 @@ body:not(.dark) #sun {
     display: none;
 }
 
+
+
 #menu {
     list-style: none;
     word-break: keep-all;
@@ -107,4 +109,9 @@ img[src$="marre.svg"] {
 
 #menu .active {
     color: #FF66C4; 
+}
+
+img[src$="apa.svg"] {
+    width: 200px;
+    height: 300px; 
 }
