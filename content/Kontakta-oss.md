@@ -13,23 +13,6 @@ Markaryds Vårmarknad klassas numera som en tradition i Markaryd, och år 2022 s
 Markarydsvarmarknad@gmail.com
 
  
-![targets](/apa.svg)
-
-### Johanna Nyström
-#### Sponsorpaket & webb
-nystromjohannas@gmail.com
-
-0730979970
-
-
-
-![targets](/apa.svg)
-
-### Olivia Fritiofsson 
-#### Marknadsföring
-olivia@mejl.se
-
-</div>
 
 
 ![targets](/apa.svg)
@@ -76,6 +59,7 @@ Alle@mejl.se
 
 ![targets](/apa.svg)
 ### Peter Wilhelmsson
+
 
 
 ![targets](/apa.svg)
