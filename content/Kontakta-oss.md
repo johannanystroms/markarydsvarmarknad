@@ -14,9 +14,7 @@ Markarydsvarmarknad@gmail.com
 
 
  
-<div class="post-content special-post">
-    
-![targets](/apa.svg)
+
 
 ### Johanna Nyström
 #### Sponsorpaket & webb
@@ -24,9 +22,7 @@ nystromjohannas@gmail.com
 
 0730979970
 
-</div>
 
-<div class="post-content special-post">
 
 ![targets](/apa.svg)
 
