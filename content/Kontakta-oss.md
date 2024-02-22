@@ -12,9 +12,8 @@ Markaryds Vårmarknad klassas numera som en tradition i Markaryd, och år 2022 s
 ### Allmänna frågor: 
 Markarydsvarmarknad@gmail.com
 
-
  
-
+![targets](/apa.svg)
 
 ### Johanna Nyström
 #### Sponsorpaket & webb
