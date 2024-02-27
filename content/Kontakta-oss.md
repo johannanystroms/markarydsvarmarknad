@@ -45,7 +45,7 @@ nathalie@mejl.se
 
 ![targets](/apa.svg)
 ### Alexander Sjöström
-#### Marknadsstånd
+#### Markaryds IF, Marknadsstånd
 Alexander@mejl.se
 
 
@@ -71,5 +71,5 @@ Alle@mejl.se
 
 ![targets](/galleri/macky.jpg)
 ### Macky
-#### Festarrangör
+#### Stämningshöjare
 
