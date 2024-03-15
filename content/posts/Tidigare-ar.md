@@ -1,11 +1,22 @@
 ---
-title: "Markaryds Vårmarknad"
+title: "VÅRA GULDSPONSORER"
 draft: false
 Cover:
-    image: img/hopp.jpg
+    image: img/3.png
     alt: 'This is a post image' 
-    caption: 'Foto: Lii Alex'
 ---
 
 
-År 2023 var första upplagan för Markaryds Vårmarknad sen bytet av styrgrupp. Med tusentals besökare blev eventet en succé!
+### Markaryds Vårmarknad 2024 kan stolt presentera följande guldsponsorer:
+
+
+
+Södra Århults torv
+
+
+
+Markaryds Sparbank
+
+
+
+Thimsfors VVS
