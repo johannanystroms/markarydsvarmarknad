@@ -2,7 +2,7 @@
 title: "VÅRA GULDSPONSORER"
 draft: false
 Cover:
-    image: img/3.png
+    image: img/guld.png
     alt: 'This is a post image' 
 ---
 
@@ -20,3 +20,6 @@ Markaryds Sparbank
 
 
 Thimsfors VVS
+
+
+Vill du och ditt företag visa upp er genom att sponsra Markaryds Vårmarknad? Kontakta oss! 
