@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'http://markarydsvarmarknad.se/'
 languageCode = 'en-us'
 title = ' '
 theme =  "PaperMod"
