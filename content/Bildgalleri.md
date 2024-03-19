@@ -6,6 +6,7 @@ draft: false
 
 #### Markaryds Vårmarknad 2023 i bilder! 
 
+
 ![targets](/galleri/1.jpg)
 ![targets](/galleri/4.jpg)
 ![targets](/galleri/3.jpg)
@@ -22,3 +23,6 @@ draft: false
 ![targets](/galleri/14.jpg)
 ![targets](/galleri/15.jpg)
 ![targets](/galleri/16.jpg)
+
+
+#### Är du med på en bild och önskar få den borttagen? Kontakta Johanna, se under fliken kontakta oss.
