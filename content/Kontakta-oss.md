@@ -17,7 +17,7 @@ Markarydsvarmarknad@gmail.com
 
 ![targets](/apa.svg)
 ### Johanna Nyström
-#### Sponsorpaket & webb
+#### Sponsorpaket, marknadsföring & webb
 nystromjohannas@gmail.com
 
 
@@ -27,9 +27,9 @@ nystromjohannas@gmail.com
 
 
 ![targets](/apa.svg)
-### Olivia Fritiofsson 
-#### Marknadsföring
-olivia@mejl.se
+### Tobias Van Der Putten
+#### Restaurang Perrongen
+Tobias@mejl.se
 
 
 
