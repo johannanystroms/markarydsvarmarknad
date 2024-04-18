@@ -115,3 +115,8 @@ img[src$="apa.svg"] {
     width: 200px;
     height: 300px; 
 }
+
+img[src$="macky.jpg"] {
+    width: 200px;
+    height: 300px; 
+}
