@@ -25,4 +25,4 @@ draft: false
 ![targets](/galleri/16.jpg)
 ![targets](/galleri/17.jpg)
 
-#### Är du med på en bild och önskar få den borttagen? Kontakta Johanna, se under fliken kontakta oss.
+#### Har du synpunkter på bilderna ovan? Kontakta Johanna! Se kontaktuppgifter under fliken "kontakta oss".
