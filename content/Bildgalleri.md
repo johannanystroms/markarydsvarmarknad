@@ -1,5 +1,5 @@
 ---
-title: "Bildgalleri 2023"
+title: "BILDGALLERI 2023"
 draft: false
 ---
 

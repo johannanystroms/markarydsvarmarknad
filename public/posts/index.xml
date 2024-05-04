@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on  </title>
+    <link>http://markarydsvarmarknad.se/posts/</link>
+    <description>Recent content in Posts on  </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://markarydsvarmarknad.se/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markaryds Vårmarknad</title>
+      <link>http://markarydsvarmarknad.se/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://markarydsvarmarknad.se/posts/my-first-post/</guid>
+      <description>Välkommen till Markaryd den 24-25 maj 2024 för en fartfylld helg! Markaryds Vårmarknad erbjuder något för alla, stora som små. På Vårmarknaden i Markaryd kan du förvänta dig marknadsknallar, foodtrucks, aktiviteter och inte minst festligheter!</description>
+    </item>
+    <item>
+      <title>VÅRA GULDSPONSORER</title>
+      <link>http://markarydsvarmarknad.se/posts/vara-sponsorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://markarydsvarmarknad.se/posts/vara-sponsorer/</guid>
+      <description>Markaryds Vårmarknad 2024 kan stolt presentera följande guldsponsorer: Södra Århults torv
+Markaryds Sparbank
+Thimsfors VVS
+Vill du och ditt företag visa upp er genom att sponsra Markaryds Vårmarknad? Kontakta oss!</description>
+    </item>
+  </channel>
+</rss>

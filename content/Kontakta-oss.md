@@ -29,7 +29,7 @@ nystromjohannas@gmail.com
 ![targets](/apa.svg)
 ### Tobias Van Der Putten
 #### Restaurang Perrongen
-Tobias@mejl.se
+Tobias@restaurangperrongen.se
 
 
 
@@ -38,7 +38,7 @@ Tobias@mejl.se
 ![targets](/apa.svg)
 ### Nathalie Jonsson
 #### Ekonomi
-nathalie@mejl.se
+nathalie.jonsson@nibe.se
 
 
 
@@ -46,14 +46,14 @@ nathalie@mejl.se
 ![targets](/apa.svg)
 ### Alexander Sjöström
 #### Markaryds IF, Marknadsstånd
-Alexander@mejl.se
+Info@markarydsif.se
 
 
 
 ![targets](/apa.svg)
 ### Alexander Levin
 #### El
-Alle@mejl.se
+Alexander@alelektriska.se
 
 
 

@@ -3,7 +3,7 @@ title: "SPONSORER"
 draft: false
 ---
 
-
+Listan uppdateras löpande.
 Med glädje meddelar vi att Markaryds Vårmarknad 2024 är sponsrad av:
 
 ### Guldsponsorer

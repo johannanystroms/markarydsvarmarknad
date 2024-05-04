@@ -4,9 +4,9 @@ draft: false
 ---
 
 ## SAVE THE DATE -- 24-25 MAJ!
-Den som väntar på något gott väntar aldrig för länge...  
+Den som väntar på något gott väntar aldrig för länge...  Äntligen får vi berätta!
 
 
-## FÖRRA ÅRETS AGENDA
+# ÅRETS AGENDA:
 
-![targets](/img/agenda.jpg)
+![targets](/img/agenda2024.png)

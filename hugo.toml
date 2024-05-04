@@ -5,9 +5,9 @@ theme =  "PaperMod"
 enableInlineShortcodes = true
 
 [params]
-ShowShareButtons = true
+ShowShareButtons = false
 ShareButtons = [ "Linkedin", "Instagram", "facebook" ]
-themeVariant = "dark"
+defaultTheme = "dark"
 label.icon = "marre.svg"
 
 

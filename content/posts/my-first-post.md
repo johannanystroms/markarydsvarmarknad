@@ -1,5 +1,5 @@
 ---
-title: "Markaryds Vårmarknad"
+title: "MARKARYDS VÅRMARKNAD"
 draft: false
 Cover:
     image: galleri/7.jpg
