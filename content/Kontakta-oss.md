@@ -2,9 +2,9 @@
 title: "Kontakta oss"
 draft: false
 Cover:
-    image: galleri/9.jpg
+    image: img/kontaktlogga.png
     alt: 'This is a post image' 
-    caption: 'Markaryds Vårmarknadskommitté 2024'
+    
 ---
 
 Markaryds Vårmarknad är en självklar tradition i Markaryd, och år 2022 samlades en ny ideell styrgrupp som varit verksamma sedan 2022. Markaryds Vårmarknad värdesätter Markaryds näringsliv och invånare och arbetar ständigt för att Markaryds ska vara aktivt samt att det finns något för alla. Har du frågor eller funderingar? Tveka inte att höra av dig! 
@@ -15,7 +15,7 @@ Markarydsvarmarknad@gmail.com
  
 
 
-![targets](/apa.svg)
+![targets](/img/johanna.png)
 ### Johanna Nyström
 #### Sponsorpaket, marknadsföring & webb
 nystromjohannas@gmail.com
@@ -26,7 +26,7 @@ nystromjohannas@gmail.com
 
 
 
-![targets](/apa.svg)
+![targets](/img/tobbe.png)
 ### Tobias Van Der Putten
 #### Restaurang Perrongen
 Tobias@restaurangperrongen.se
@@ -35,7 +35,7 @@ Tobias@restaurangperrongen.se
 
 
 
-![targets](/apa.svg)
+![targets](/img/natta.png)
 ### Nathalie Jonsson
 #### Ekonomi
 nathalie.jonsson@nibe.se
@@ -43,7 +43,7 @@ nathalie.jonsson@nibe.se
 
 
 
-![targets](/apa.svg)
+![targets](/img/alexander.png)
 ### Alexander Sjöström
 #### Markaryds IF, Marknadsstånd
 Info@markarydsif.se

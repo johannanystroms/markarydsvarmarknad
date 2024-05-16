@@ -2,7 +2,7 @@
 title: "VÅRA GULDSPONSORER"
 draft: false
 Cover:
-    image: img/guld.png
+    image: img/guldfram.png
     alt: 'This is a post image' 
 ---
 
@@ -22,4 +22,25 @@ Markaryds Sparbank
 Thimsfors VVS
 
 
-Vill du och ditt företag visa upp er genom att sponsra Markaryds Vårmarknad? Kontakta oss! 
+
+Restaurang Perrongen
+
+
+
+Habi Bygg/ Habi Fastigheter
+
+
+
+C/o Markaryd
+
+
+
+
+Hamiltone
+
+
+
+
+Hyrakuten/P-A's Bärgning
+
+

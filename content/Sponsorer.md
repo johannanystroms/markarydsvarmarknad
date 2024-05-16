@@ -3,26 +3,33 @@ title: "SPONSORER"
 draft: false
 ---
 
-Listan uppdateras löpande.
 Med glädje meddelar vi att Markaryds Vårmarknad 2024 är sponsrad av:
 
-### Guldsponsorer
-
-![targets](/img/guld.png)
-
-
-
-### Silversponsorer
-
-![targets](/img/silver.png)
-
-
-
-### Bronssponsorer
-
-![targets](/img/brons.png)
+## Guldsponsorer
+![targets](/img/g1.png)
+![targets](/img/g2.png)
+![targets](/img/g3.png)
+![targets](/img/g4.png)
+![targets](/img/g5.png)
+![targets](/img/g6.png)
+![targets](/img/g7.png)
+![targets](/img/g8.png)
 
 
 
+## Silversponsorer
 
-Vill ditt företag visa upp er samtidigt som ni bidrar genom att sponsra Markaryds Vårmarknad? Kontakta oss! 
+![targets](/img/s1.png)
+![targets](/img/s2.png)
+![targets](/img/s3.png)
+
+
+
+
+## Bronssponsorer
+
+![targets](/img/b1.png)
+![targets](/img/b2.png)
+![targets](/img/b3.png)
+
+
