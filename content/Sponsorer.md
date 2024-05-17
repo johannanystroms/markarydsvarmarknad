@@ -30,6 +30,6 @@ Med glädje meddelar vi att Markaryds Vårmarknad 2024 är sponsrad av:
 
 ![targets](/img/b1.png)
 ![targets](/img/b2.png)
-![targets](/img/b3.png)
+![targets](/img/b4.png)
 
 
