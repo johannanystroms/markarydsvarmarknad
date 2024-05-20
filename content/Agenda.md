@@ -9,4 +9,4 @@ Den som väntar på något gott väntar aldrig för länge...  Äntligen får vi
 
 # ÅRETS AGENDA:
 
-![targets](/img/agenda2024.png)
+![targets](/img/affisch.png)
